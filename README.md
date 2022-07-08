@@ -29,7 +29,7 @@ https://youtu.be/KWDVaNYCXMc
 ### 적용 기술
 
 > - Front-End: React.js, CSS , HTML
-> - Back-End: Python, Django web fremework, AWS, MySQL
+> - Back-End: Python, Django web fremework, MySQL
 
 ### 구현 기능
 
